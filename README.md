@@ -1,15 +1,15 @@
 # bendenizpardus.github.io
-Pardus
+
 
 Merhaba arkadaşlar bu sayfada blog yazacağım, belki kaynak kodu oluşturacağım ve bilgilerimi paylaşacağım :)
 
 
-Chroot ile sisteminizi kurtarmak.
+## Chroot ile sisteminizi kurtarmak.
 
 kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olmalıdır. EFI Sistemleri icin bir kılavuz oluşturacağım. Normal BIOS için de birtane.
 
 
-## EFI kılavuzu
+### EFI kılavuzu
 ```
 sudo su
 lsblk 
@@ -47,7 +47,12 @@ chroot /mnt
 ```
 şimdi sistemi tamir edebiliriz
 
-## BIOS kılavuzu
+### BIOS kılavuzu
+
+```
+sudo su
+lsblk
+```
 
 ```
 mount /dev/sda2 /mnt
