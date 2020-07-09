@@ -9,7 +9,7 @@ Chroot ile sisteminizi kurtarmak.
 kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olmalıdır. EFI Sistemleri icin bir kılavuz oluşturacağım. Normal BIOS için de birtane.
 
 
-##EFI kılavuzu
+## EFI kılavuzu
 ```
 sudo su
 lsblk 
@@ -47,7 +47,7 @@ chroot /mnt
 ```
 şimdi sistemi tamir edebiliriz
 
-##BIOS kılavuzu
+# #BIOS kılavuzu
 
 ```
 mount /dev/sda2 /mnt
@@ -55,6 +55,7 @@ mount /dev/sda2 /mnt
 
 for i in dev dev/pts proc sys sys/firmware; do mount --bind /$i /mnt/$i;
 done
+
 mount -o bind /etc/resolv.conf /mnt/etc/resolv.conf
 
 
