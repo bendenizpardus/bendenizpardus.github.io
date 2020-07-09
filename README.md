@@ -47,7 +47,7 @@ chroot /mnt
 ```
 şimdi sistemi tamir edebiliriz
 
-# #BIOS kılavuzu
+## BIOS kılavuzu
 
 ```
 mount /dev/sda2 /mnt
