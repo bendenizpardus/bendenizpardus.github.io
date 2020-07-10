@@ -105,6 +105,6 @@ sudo apt-get install pardus-gnome-desktop
 
 ## Markdown temelleri ( ingilizce):
 
-https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/basic-syntax/ [Link](https://www.markdownguide.org/basic-syntax/).
 
-İçeriğimi beğendiyseniz Youtube kanalıma bir göz atabilirsinz :) [Benim Kanal](https://www.youtube.com/channel/UC0AdzNi_mW1-QEJ_fuJFoWw/featured).
+İçeriğimi beğendiyseniz Youtube kanalıma bir göz atabilirsinz :) [Link](https://www.youtube.com/channel/UC0AdzNi_mW1-QEJ_fuJFoWw/featured).
