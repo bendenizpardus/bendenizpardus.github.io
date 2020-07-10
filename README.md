@@ -1,6 +1,6 @@
 # bendenizpardus.github.io
 
-[![Pardus](/")](https://repository-images.githubusercontent.com/278490004/df2b6200-c261-11ea-901c-39e1cdcae03e)
+[![Pardus](/test.jpg")](https://repository-images.githubusercontent.com/278490004/df2b6200-c261-11ea-901c-39e1cdcae03e)
 
 Merhaba arkadaşlar bu sayfada bloğumu yazacağım, belki kaynak kodu oluştururum ve bilgilerimi paylaşırım :)
 
