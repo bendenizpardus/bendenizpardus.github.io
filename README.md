@@ -96,7 +96,7 @@ update-grub
 ```
 grub-install /dev/sdX
 ```
-`SdX` ise sizin grubun yüklü olduğu yer dir.
+`sdX` ise sizin grubun yüklü olduğu yer dir.
 
 Yada sildiğiniz Gnome Masaüstünü yeniden yükleyebilirsiniz
 ```
