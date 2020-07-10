@@ -14,7 +14,7 @@ kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olma
 sudo su
 lsblk 
 ```
-
+Varsayılan Pardus UEFI bölümlenmesi
 ```
 sda      8:0    0   60G  0 disk 
 ├─sda1   8:1    0  512M  0 part /boot/efi
@@ -59,7 +59,7 @@ grub-install
 sudo su
 lsblk
 ```
-
+Varsayılan Pardus BIOS bölümlenmesi
 
 ```
 sda      8:0    0   60G  0 disk 
