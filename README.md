@@ -9,7 +9,7 @@ Merhaba arkadaşlar bu sayfada blog yazacağım, belki kaynak kodu oluşturacağ
 kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olmalıdır. EFI Sistemleri icin bir kılavuz oluşturacağım. Normal BIOS için de birtane.
 
 
-### EFI kılavuzu
+### chroot EFI kılavuzu
 ```
 sudo su
 lsblk 
@@ -53,7 +53,7 @@ update-grub
 grub-install
 ```
 
-### BIOS kılavuzu
+### chroot BIOS/Legacy BIOS CMS kılavuzu
 
 ```
 sudo su
