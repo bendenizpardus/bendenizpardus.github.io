@@ -52,6 +52,7 @@ apt-get --reinstall install grub-common grub-efi-amd64 os-prober
 update-grub
 grub-install
 ```
+Video açıklaması [Link](https://youtu.be/RHXIuA26-h4).
 
 ### chroot BIOS/Legacy BIOS CMS kılavuzu
 
