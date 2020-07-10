@@ -102,6 +102,4 @@ Yada sildiğiniz Gnome Masaüstünü yeniden yükleyebilirsiniz
 ```
 sudo apt-get install pardus-gnome-desktop
 ```
-İçeriğimi beğendiyseniz Youtube kanalıma bir göz atabilirsinz :)
-
-https://www.youtube.com/channel/UC0AdzNi_mW1-QEJ_fuJFoWw/featured
+İçeriğimi beğendiyseniz Youtube kanalıma bir göz atabilirsinz :) [Benim Kanal](https://www.youtube.com/channel/UC0AdzNi_mW1-QEJ_fuJFoWw/featured).
