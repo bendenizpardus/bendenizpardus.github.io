@@ -104,6 +104,8 @@ Yada sildiğiniz Gnome Masaüstünü yeniden yükleyebilirsiniz
 sudo apt-get install pardus-gnome-desktop
 ```
 
+Video açıklaması [Link](https://youtu.be/6JRoDVnd3N0).
+
 ## Markdown temelleri ( ingilizce):
 
 https://www.markdownguide.org/basic-syntax/ [Link](https://www.markdownguide.org/basic-syntax/).
