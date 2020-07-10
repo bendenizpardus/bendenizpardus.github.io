@@ -83,7 +83,7 @@ mount -o bind /etc/resolv.conf /mnt/etc/resolv.conf
 
 chroot /mnt
 ```
-şimdi örneğin /etc/default/grub da yaptığımız yanlış ayarları değiştirebiliriz.
+şimdi örneğin `/etc/default/grub` da yaptığımız yanlış ayarları değiştirebiliriz.
 Yada grubu sildiysek yeniden yükleyebiliriz:
 
 ```
