@@ -96,4 +96,4 @@ update-grub
 ```
 grub-install /dev/sdX
 ```
-`SdX` ise sizin grubun yüklü olduğu yer dirç
+`SdX` ise sizin grubun yüklü olduğu yer dir.
