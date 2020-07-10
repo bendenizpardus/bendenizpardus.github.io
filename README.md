@@ -1,7 +1,7 @@
 # bendenizpardus.github.io
 
 
-Merhaba arkadaşlar bu sayfada blog yazacağım, belki kaynak kodu oluşturacağım ve bilgilerimi paylaşacağım :)
+Merhaba arkadaşlar bu sayfada bloğumu yazacağım, belki kaynak kodu oluştururum ve bilgilerimi paylaşırım :)
 
 
 ## Chroot ile sisteminizi kurtarmak/tamir etmek:
