@@ -4,7 +4,7 @@
 Merhaba arkadaşlar bu sayfada blog yazacağım, belki kaynak kodu oluşturacağım ve bilgilerimi paylaşacağım :)
 
 
-## Chroot ile sisteminizi kurtarmak/tamir etmek.
+## Chroot ile sisteminizi kurtarmak/tamir etmek:
 
 kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olmalıdır. EFI Sistemleri icin bir kılavuz oluşturacağım. Normal BIOS için de birtane.
 
@@ -102,4 +102,9 @@ Yada sildiğiniz Gnome Masaüstünü yeniden yükleyebilirsiniz
 ```
 sudo apt-get install pardus-gnome-desktop
 ```
+
+## Markdown temelleri ingilizce:
+
+https://www.markdownguide.org/basic-syntax/
+
 İçeriğimi beğendiyseniz Youtube kanalıma bir göz atabilirsinz :) [Benim Kanal](https://www.youtube.com/channel/UC0AdzNi_mW1-QEJ_fuJFoWw/featured).
