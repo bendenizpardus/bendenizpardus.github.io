@@ -4,7 +4,7 @@
 Merhaba arkadaşlar bu sayfada blog yazacağım, belki kaynak kodu oluşturacağım ve bilgilerimi paylaşacağım :)
 
 
-## Chroot ile sisteminizi kurtarmak.
+## Chroot ile sisteminizi kurtarmak/tamir etmek.
 
 kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olmalıdır. EFI Sistemleri icin bir kılavuz oluşturacağım. Normal BIOS için de birtane.
 
