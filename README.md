@@ -72,7 +72,7 @@ sr0     11:0    1 1024M  0 rom
 
 
 ```
-mount /dev/sda2 /mnt
+mount /dev/sda1 /mnt
 
 
 for i in dev dev/pts proc sys sys/firmware; do mount --bind /$i /mnt/$i;
