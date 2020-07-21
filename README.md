@@ -6,6 +6,8 @@ Merhaba arkadaşlar bu sayfada bloğumu yazacağım, belki kaynak kodu oluşturu
 
 ## Pardusda, yüklü bulunan sistemimizden live-ISO üretmek:
 
+Bu yöntem yeni ve temiz yüklenmiş bir sisteme uygulayınız. Çünkü ISO nun boyutu ona göre artacak. Benim tavsiyem sistemi yükleyiniz sonra, olmazsa olmaz yazılımlarınızı yükleyiniz. Ve ondan sonra ISOyu üretiniz.
+
 Uçbirimini açmak için XFCEde ctrl+alt+t tuşlarına basıyoruz.
 Gnomede ise Masaüstüne sağ tıklayarak uçbirimini açıyoruz.
 
