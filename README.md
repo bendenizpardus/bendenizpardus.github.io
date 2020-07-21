@@ -4,6 +4,50 @@
 Merhaba arkadaşlar bu sayfada bloğumu yazacağım, belki kaynak kodu oluştururum ve bilgilerimi paylaşırım :)
 
 
+## Pardusda, yüklü bulunan sistemimizden live-ISO üretmek:
+
+Uçbirimini açmak için XFCEde ctrl+alt+t tuşlarına basıyoruz.
+Gnomede ise Masaüstüne sağ tıklayarak uçbirimini açıyoruz.
+
+sudo apt update
+
+sudo apt instal -y squashfs-tools build-essential dkms linux-headers-$(uname -r) aufs-dkms wget
+
+cd /tmp/
+
+wget https://github.com/Tomas-M/linux-live/archive/master.zip
+
+unzip master.zip
+
+cd linux-live-master
+
+sudo su
+
+chmod +x build
+
+./build
+
+cd ..
+
+chmod +x gen_linux_iso.sh 
+
+./gen_linux_iso.sh
+
+chown kulanıcıisminiz linux-x86_64.iso
+
+Sonra üretilmiş olan ISOyu Rufus yada etcher:
+https://www.balena.io/etcher/
+https://github.com/balena-io/etcher
+
+İle USB beleğinize yükleyebilirsiniz
+
+Kaynaklar:
+
+https://www.linux-live.org/
+http://www.linuxandubuntu.com/home/make-your-very-own-customized-linux-distro-from-your-current-installation
+
+
+
 ## Chroot ile sisteminizi kurtarmak/tamir etmek:
 
 kurtarmaya çalışacağınız sistem canlı usb çubuğunuzda aynı sistem olmalıdır. EFI Sistemleri icin bir kılavuz oluşturacağım. Normal BIOS için de birtane.
