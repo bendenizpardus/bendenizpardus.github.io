@@ -9,6 +9,7 @@ Merhaba arkadaşlar bu sayfada bloğumu yazacağım, belki kaynak kodu oluşturu
 Uçbirimini açmak için XFCEde ctrl+alt+t tuşlarına basıyoruz.
 Gnomede ise Masaüstüne sağ tıklayarak uçbirimini açıyoruz.
 
+```
 sudo apt update
 
 sudo apt instal -y squashfs-tools build-essential dkms linux-headers-$(uname -r) aufs-dkms wget
@@ -34,6 +35,8 @@ chmod +x gen_linux_iso.sh
 ./gen_linux_iso.sh
 
 chown kulanıcıisminiz linux-x86_64.iso
+
+```
 
 Sonra üretilmiş olan ISOyu Rufus yada etcher:
 https://www.balena.io/etcher/
