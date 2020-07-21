@@ -28,7 +28,7 @@ sudo su
 
 chmod +x build
 
-./build
+./build        Bu adım çok uzun sürecek!
 
 cd ..
 
