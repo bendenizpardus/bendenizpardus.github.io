@@ -14,7 +14,7 @@ Gnomede ise Masaüstüne sağ tıklayarak uçbirimini açıyoruz.
 ```
 sudo apt update
 
-sudo apt instal -y squashfs-tools build-essential dkms linux-headers-$(uname -r) aufs-dkms wget
+sudo apt instal -y squashfs-tools build-essential dkms linux-headers-$(uname -r) aufs-dkms wget zip unzip
 
 cd /tmp/
 
